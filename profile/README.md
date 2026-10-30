@@ -1,6 +1,6 @@
 ## Labpoint
 
-O projeto Labpoint visa resolver o problema de reservas do SENAI, mas parece que estamos sendo feitos de cobaias para resolver todos os problemas administrativos de graça XD, igual no Grandprix 😂
+O projeto Labpoint visa resolver o problema de reservas do SENAI, mas parece que estamos sendo feitos de cobaias para resolver todos os problemas administrativos de graça, igual no Grandprix 😂
 
 <!--
 
